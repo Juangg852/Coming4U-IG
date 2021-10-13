@@ -1,0 +1,6 @@
+framework module Pods_Coming4U_IG {
+  umbrella header "Pods-Coming4U-IG-umbrella.h"
+
+  export *
+  module * { export * }
+}

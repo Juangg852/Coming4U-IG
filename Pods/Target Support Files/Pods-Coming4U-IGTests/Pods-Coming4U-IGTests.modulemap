@@ -1,0 +1,6 @@
+framework module Pods_Coming4U_IGTests {
+  umbrella header "Pods-Coming4U-IGTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
